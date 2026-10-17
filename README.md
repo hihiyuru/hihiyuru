@@ -1,9 +1,6 @@
 # Hi, I'm Una 👋
 
-Front-end developer in Taipei, building with **Vue 3 + TypeScript**.
-Lately I've been using AI (Claude) to automate the boring parts of my life — budgeting, fare tracking, and daily workflows.
-
-在台北寫前端，也喜歡用 AI 做讓生活變簡單的小工具。
+Front-end developer in Taipei. I build web apps with Vue 3 and TypeScript, and lately I've been making small tools with Claude.
 
 ### What I'm working on
 
