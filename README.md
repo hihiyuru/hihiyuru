@@ -1,23 +1,35 @@
- <h1 align="center">Hi 👋！ I'm Una!</h1>
-<h3 align="center">I am a web front-end developer, and I am currently learning Swift. On this learning journey, we have each other for support. 🤝</h3>
+# Hi, I'm Una 👋
 
-- 🌱 I’m currently learning **Swift, TypeScript, and React.**
+Front-end developer in Taipei, building with **Vue 3 + TypeScript**.
+Lately I've been using AI (Claude) to automate the boring parts of my life — budgeting, fare tracking, and daily workflows.
 
-- 📝 I regularly write articles on [https://una-blog.netlify.app/](https://una-blog.netlify.app/)
+在台北寫前端，也喜歡用 AI 做讓生活變簡單的小工具。
 
-- 💬 Ask me about **Vue.js, CSS, or anything related to web development.**
+### What I'm working on
 
-- 📫 How to reach me **hihi555000@gmail.com**
+- 💸 **[expense-tracker](https://github.com/hihiyuru/expense-tracker)** — A PWA for daily expenses that syncs to Google Sheets. Works offline and installs to your home screen.
+- 🤖 **AI automation** — Claude-powered tools for budgeting, flight-fare alerts and email triage. *(private for now)*
+- 🧩 **[frontend-showcase](https://github.com/hihiyuru/frontend-showcase)** — Vue 3 + TypeScript + Tailwind UI experiments, starting with a multi-level skill-tree selector.
 
-- 📄 Know about my experiences [https://www.cakeresume.com/me/una-xu666](https://www.cakeresume.com/me/una-xu666)
+### Earlier work
 
-- ⚡ Fun fact **I enjoy 🏔hiking, 🧶knitting, and 📿beading in my free time.**
+iOS side projects in Swift / UIKit:
+[WOOTEA](https://github.com/hihiyuru/WOOTEA) (drink ordering) ·
+[player](https://github.com/hihiyuru/player) (music player) ·
+[ebook](https://github.com/hihiyuru/ebook) (e-book reader) ·
+[Ghibli-movie](https://github.com/hihiyuru/Ghibli-movie) ·
+[emoji-game](https://github.com/hihiyuru/emoji-game)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/una-xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="una-xu" height="30" width="40" /></a>
-<a href="https://medium.com/@hihi555000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hihi555000" height="30" width="40" /></a>
-</p>
+### Tech
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,sass,vite,react,swift,figma,git" alt="Vue, TypeScript, JavaScript, Tailwind, Sass, Vite, React, Swift, Figma, Git" /></a>
+
+### Find me
+
+[![Blog](https://img.shields.io/badge/Blog-una--blog-FF7139?style=flat-square&logo=hugo&logoColor=white)](https://una-blog.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-una--xu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/una-xu)
+[![Medium](https://img.shields.io/badge/Medium-@hihi555000-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hihi555000)
+[![Resume](https://img.shields.io/badge/Resume-CakeResume-1C1C1C?style=flat-square&logo=readdotcv&logoColor=white)](https://www.cakeresume.com/me/una-xu666)
+[![Email](https://img.shields.io/badge/Email-hihi555000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hihi555000@gmail.com)
+
+<sub>Off-screen: 🏔 hiking · 🧶 knitting · 📿 beading</sub>
