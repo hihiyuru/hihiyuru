@@ -6,7 +6,6 @@ Front-end developer in Taipei. I build web apps with Vue 3 and TypeScript, and l
 
 - 💸 **[expense-tracker](https://github.com/hihiyuru/expense-tracker)** — A PWA for daily expenses that syncs to Google Sheets. Works offline and installs to your home screen.
 - 🤖 **AI automation** — Claude-powered tools for budgeting, flight-fare alerts and email triage. *(private for now)*
-- 🧩 **[frontend-showcase](https://github.com/hihiyuru/frontend-showcase)** — Vue 3 + TypeScript + Tailwind UI experiments, starting with a multi-level skill-tree selector.
 
 ### Earlier work
 
